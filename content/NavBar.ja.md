@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Aaron Douglas"
 menuText: "メニュー "
 ---
