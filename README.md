@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsyby startbootstrap-agency So lets get Started -T 
+  Gatsyby startbootstrap-agency | lets get Started -T 
 </h1>
 
 gatsby version of startbootstrap-agency with i18n supported.
