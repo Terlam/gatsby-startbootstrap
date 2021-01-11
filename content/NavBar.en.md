@@ -1,4 +1,6 @@
 ---
-brand: "Aaron Douglas"
+brand: Aaron Douglas
+
 menuText: "Menu "
+
 ---
