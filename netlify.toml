@@ -1,3 +1,4 @@
 [build]
   command = "yarn && yarn testbuild"
   publish = "public"
+  NODE_VERSION = "12.18.3"
