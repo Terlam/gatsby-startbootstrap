@@ -4,7 +4,7 @@ header: "Services"
 subheader: "These are some of the services we provide, but not limited to."
 services: [
   {
-    iconName: "ShoppingCartIcon",
+    iconName: "LaptopIcon",
     header: "Website Development",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
