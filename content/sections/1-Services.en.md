@@ -6,7 +6,7 @@ services: [
   {
     iconName: "LaptopIcon",
     header: "Website Development",
-    content: "We can design and build you a high quality website using the latest web tehnologies. Whether you're a small or meduium sized business we can help you get started."
+    content: "We can design and build you a high quality website using the latest web tehnologies. Whether you're a small or medium sized business we can help you get started."
   },
   {
     iconName: "PaletteIcon",
