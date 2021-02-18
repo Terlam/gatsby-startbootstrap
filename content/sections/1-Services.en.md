@@ -11,12 +11,12 @@ services: [
   {
     iconName: "PaletteIcon",
     header: "Graphic Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Design is super important when it comes to building a digital presence for your business. We can help you build a brand using our favorite design principles & strategies."
   },
   {
     iconName: "GraduationIcon",
     header: "Educational Consulting",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "With over 10 years of combined experience in education, we can help you build a curriculum to fit the needs of any program. We'll also help you evaluate your program using data. "
   }
 ]
 ---
