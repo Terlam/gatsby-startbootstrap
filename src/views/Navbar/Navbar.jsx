@@ -11,6 +11,7 @@ import Icon from "components/Icon";
 import NavItem from "components/NavItem";
 
 import "./Navbar.scss";
+import logo from "./logo.png";
 
 const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
   const { brand, menuText } = frontmatter;
@@ -45,7 +46,7 @@ const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
     >
       <Container>
         <Navbar.Brand className="cursor-pointer" onClick={handleBrandClick}>
-          {brand}
+          <img src={logo} height="40" alt="Logo" />
         </Navbar.Brand>
         <Navbar.Toggle onClick={toggleMenu} aria-label="Toggle navigation">
           {menuText}
